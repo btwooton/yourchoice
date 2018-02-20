@@ -1,5 +1,6 @@
 .topmenu {
   box-shadow: none;
+  height: 70px;
 }
 
 .item a {
@@ -13,8 +14,10 @@
   color: white;
 }
 
-h2 {
+h1 {
   text-transform: uppercase;
+  font-size: large;
+  font-weight: lighter;
 }
 
 body {
